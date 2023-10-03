@@ -1,4 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
+
+// we accidentally sent the version with testing
+// so you can call with an empty string of bytes to pass this challenge.
+
 pragma solidity ^0.8.13;
 
 contract Snakes {
